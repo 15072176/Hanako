@@ -221,7 +221,7 @@ button {
 }
 
 .quotes {
-    background: #faf9f9;
+    background: #ffffff;
     margin-bottom: 60px;
     padding: 20px 30px;
     display: flex;
@@ -254,7 +254,7 @@ button {
 
 .footer {
     padding: 5px;
-    background: #202242;
+    background: #3a110e;
     color: #fff;
     text-align: center;
     margin-top: 30px;
